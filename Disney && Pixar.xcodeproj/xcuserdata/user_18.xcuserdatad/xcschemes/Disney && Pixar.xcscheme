@@ -5,6 +5,22 @@
    <BuildAction
       parallelizeBuildables = "YES"
       buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "4E64B6781E8B866200048A2F"
+               BuildableName = "Disney &amp;&amp; Pixar.app"
+               BlueprintName = "Disney &amp;&amp; Pixar"
+               ReferencedContainer = "container:Disney &amp;&amp; Pixar.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
    </BuildAction>
    <TestAction
       buildConfiguration = "Debug"
@@ -13,6 +29,15 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "4E64B6781E8B866200048A2F"
+            BuildableName = "Disney &amp;&amp; Pixar.app"
+            BlueprintName = "Disney &amp;&amp; Pixar"
+            ReferencedContainer = "container:Disney &amp;&amp; Pixar.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -26,6 +51,16 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "4E64B6781E8B866200048A2F"
+            BuildableName = "Disney &amp;&amp; Pixar.app"
+            BlueprintName = "Disney &amp;&amp; Pixar"
+            ReferencedContainer = "container:Disney &amp;&amp; Pixar.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -35,6 +70,16 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "4E64B6781E8B866200048A2F"
+            BuildableName = "Disney &amp;&amp; Pixar.app"
+            BlueprintName = "Disney &amp;&amp; Pixar"
+            ReferencedContainer = "container:Disney &amp;&amp; Pixar.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
